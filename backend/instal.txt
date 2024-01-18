@@ -1,0 +1,4 @@
+npm init
+entry point server.js
+npm i express cors mysql2
+npm i npm i -g nodemon
